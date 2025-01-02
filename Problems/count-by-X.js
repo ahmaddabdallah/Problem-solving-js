@@ -8,7 +8,7 @@
 /* Solution */
 
 /*
-    -create a New Empty Array
+    - create a New Empty Array
     - Loop through n
     - Multiply the x * n
     - add the number to the new Array
@@ -24,6 +24,5 @@ function countBy(x, n) {
   // let arr = Array.from(Array(n + 1).keys()).slice(1);
   // console.log(arr);
 }
-countBy(1, 5);
 
-// console.log(countBy(2, 5));
+console.log(countBy(2, 5));
