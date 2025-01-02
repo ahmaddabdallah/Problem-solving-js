@@ -17,10 +17,13 @@
 
 function countBy(x, n) {
   let emptyArray = [];
-  for (let i = 1; i < n; i++) {
+  for (let i = 1; i <= n; i++) {
     emptyArray.push(x * i);
   }
   return emptyArray;
+  // let arr = Array.from(Array(n + 1).keys()).slice(1);
+  // console.log(arr);
 }
+countBy(1, 5);
 
-console.log(countBy(1, 5));
+// console.log(countBy(2, 5));
