@@ -54,3 +54,9 @@ function greet(language) {
 }
 
 console.log(greet("fsd"));
+
+console.log("a");
+setTimeout(() => {
+    console.log("b");
+});
+console.log("c");
