@@ -25,10 +25,7 @@
 
 /* Another Answer*/
 function removeEveryOther(arr) {
-    return arr.map(x , () => {
-        x % 2 == 0 ? x : ""
-    })
+    return arr.filter((x , i) => i % 2 == 0)
 }
-
 
 console.log(removeEveryOther(["Hello", "Goodbye", "Hello Again"]));
