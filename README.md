@@ -28,8 +28,6 @@ cd [repository-name]
 
 -   JavaScript
 -   Python
--   HTML
--   CSS
 
 ## Contributing
 
