@@ -7,9 +7,6 @@ This repository contains a collection of JavaScript coding challenges and soluti
 -   `Problems/` - Contains various coding challenges and their solutions
 -   `Manara Problems/` - Specific set of coding problems
 -   `Problem Solving play-list Mahrous/` - Additional problem-solving exercises
--   `IM-problems.js` - JavaScript implementation of specific problems
--   `calculator.js` & `calcaultor.html` - Calculator implementation
--   `spam-message.py` & `starts.py` - Python scripts for message handling
 
 ## Getting Started
 
