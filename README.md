@@ -44,7 +44,6 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Ahmad Abdallah
----
+## Ahmad Abdallah
 
 Feel free to explore the different problem sets and solutions in this repository. Each file contains detailed implementations and comments to help understand the problem-solving approach.
