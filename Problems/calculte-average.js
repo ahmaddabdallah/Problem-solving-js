@@ -1,6 +1,13 @@
-/*
-    - Write a function which calculates the average of the numbers in a given array.
-    - Note: Empty arrays should return 0.
+/* Calculate Average
+   
+   Description:
+   ------------
+   Write a function which calculates the average of the numbers in a given array.
+   Note: Empty arrays should return 0.
+   
+   Example:
+   findAverage([1, 2, 3]) // returns 2
+   findAverage([]) // returns 0
 */
 
 function findAverage(array) {
